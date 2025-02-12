@@ -7,7 +7,7 @@ This is my final project for Harvard's CS50 course. The project is a task manage
 1. Clone the repository.
 
     ```sh
-    git clone https://github.com/yourusername/final-project-pedro-henrique-cardoso-barbosa.git
+    git clone https://github.com/pedrohenriquecardoso/final-project-pedro-henrique-cardoso-barbosa.git
     ```
 2. Navigate to the project directory.
 
